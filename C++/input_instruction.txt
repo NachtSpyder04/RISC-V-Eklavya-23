@@ -1,0 +1,6 @@
+add
+add
+sub
+addi 
+andi
+ori
